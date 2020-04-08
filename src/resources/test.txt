@@ -1,0 +1,9 @@
+valami:=12
+m1a3s5:=21
+valami<mas
+valami<=mas
+valami>=mas
+valami>mas
+valami<>mas
+{komment}
+(*casfc5vsfdv6df256d*)
